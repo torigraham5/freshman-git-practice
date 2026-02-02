@@ -1,0 +1,13 @@
+Git Command Line Practice
+
+Name:
+Date:
+
+This file was added and committed using the terminal.
+cd Desktop/freshman-git-practice
+git init
+git remote add origin https://github.com/YOUR_USERNAME/freshman-git-practice.git
+git add .
+git commit -m "Add initial files from command line"
+git branch -M main
+git push -u origin main
